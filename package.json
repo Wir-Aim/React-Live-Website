@@ -1,5 +1,6 @@
 {
-  "name": "new-app",
+  "name": "React-Live-Dashboard",
+  "homepage": "https://Wir-Aim.github.io/React-Live-Website",
   "version": "0.1.0",
   "private": true,
   "engines": {

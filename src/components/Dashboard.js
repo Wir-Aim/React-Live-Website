@@ -69,7 +69,7 @@ function Dashboard() {
       <div className="mainDiv">
         <div className="imageBlur">
           <div className="main">
-            <h1 className="mainHead">Home</h1>
+            <h1 className="mainHead">HomeS</h1>
           </div>
           <div className="main-content">
             <div className="slider">
